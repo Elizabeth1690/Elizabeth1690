@@ -6,7 +6,7 @@
 - 👩‍🎓 Actualmente estudio en el bootcamp de Laboratoria, y finalizo mis estudios a mediados del mes de Junio.
 - ❤️ Gracias a la tecnología, encontre lo que verdaderamente me apasiona en la vida la programación, es una montaña rusa de emociones, en donde se aprende cosas nuevas y se práctica la perseverancia día a día.
 - 👩‍💻 Actualmente cuento con conocimiento en Javascript, HTML, CSS, React, control de versiones en GitHub, bases de datos como Firebase.
-- 😺 Dato curioso: Le tengo fobia a los gatos y siempre me realacionan con ellos.
+- 😺 Dato curioso: Le tengo fobia a los gatos y siempre me relacionan con ellos.
 
 
 ### Technical Skills
@@ -26,6 +26,29 @@
 </p>
   
 ------
+
+<h3 align="left">Mis proyectos</h3>
+<p align="left">
+
+
+<a href="https://elizabeth1690.github.io/Social-network/src/index.html#/"><img src="https://i.imgur.com/NY7Mdpl.png">
+**Social Network - Hi Baby**</a>
+<br>
+    
+<a href="https://elizabeth1690.github.io/BOG004-data-lovers/src/index.html"><img src="https://i.imgur.com/mlopISP.png">
+**Data Lovers - Studio Ghibli**</a>
+<br>
+
+<a href="https://elizabeth1690.github.io/BOG004-card-validation/src/index.html" target="_blank"><img src="https://i.imgur.com/Y6Nia6T.png">
+**Tarjeta de Crédito - Almacenes Éxito** </a>
+<br>
+
+</p>
+
+------
+
+
+
 <!--
 **Elizabeth1690/Elizabeth1690** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
